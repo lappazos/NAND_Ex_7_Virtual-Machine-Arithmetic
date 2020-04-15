@@ -1,0 +1,23 @@
+matanhalfon, lioraryepaz
+===============================================================================
+Lior Paz, ID 206240996, lior.paz1@mail.huji.ac.il
+Matan Halfon, ID 205680648, matan.halfon@mail.huji.ac.il
+===============================================================================
+
+                           Project 7 - VMtranslator
+                           ------------------------
+  
+
+Submitted Files
+---------------
+README - This file.
+Makefile
+VMtranslator - script to run Main.py
+Main.py - main python file
+Parser.py - Handles the parsing of a single .vm file, and encapsulates access to the input code.
+CodeWriter.py - Translates VM commands into Hack assembly code
+
+
+Remarks
+-------
+* First time handling the stack and really understanding how it works
